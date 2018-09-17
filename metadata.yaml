@@ -1,5 +1,5 @@
 _repo: The-Temptation-of-St-Anthony_52225
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La tentation de saint Antoine. English
 contributor:
   illustrator:
@@ -19,6 +19,9 @@ contributor:
     gutenberg_agent_id: '368'
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+covers:
+- cover_type: archival
+  image_path: 52225-h/images/cover.jpg
 creator:
   author:
     agent_name: Flaubert, Gustave
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52225#The-Temptation-of-St-Anthony
 gutenberg_issued: '2016-06-04'
 gutenberg_type: Text
 identifiers:
