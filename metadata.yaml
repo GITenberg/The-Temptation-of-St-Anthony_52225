@@ -1,0 +1,48 @@
+_repo: The-Temptation-of-St-Anthony_52225
+_version: 0.0.1
+alternative_title: La tentation de saint Antoine. English
+contributor:
+  illustrator:
+    agent_name: Redon, Odilon
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '44994'
+    url: http://www.gutenberg.org/2009/agents/44994
+  translator:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_issued: '2016-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Fiction'
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Anthony, of Egypt, Saint, approximately 250-355 or 356 -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Biographical fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The Temptation of St. Anthony
+url: http://www.gutenberg.org/ebooks/52225
